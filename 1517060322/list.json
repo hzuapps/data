@@ -1,0 +1,31 @@
+[{
+      "src":"/pages/comp/form",
+      "tupian":"/pages/example/images/19.png",
+      "name": "习近平",
+      "last": "您好！"
+    }, {
+      "src": "/pages/comp/form",
+      "tupian": "/pages/example/images/a.png",
+      "name": "李克强",
+      "last": "您好！"
+    }, {
+      "tupian": "/pages/example/images/b.png",
+      "name": "胡锦涛",
+      "last": "您好！"
+    }, {
+      "tupian": "/pages/example/images/c.png",
+      "name": "温家宝",
+      "last": "您好！"
+    }, {
+      "tupian": "/pages/example/images/banner.png",
+      "name": "江泽民",
+      "last": "您好！"
+    }, {
+      "tupian": "/pages/example/images/conf64.png",
+      "name": "朱镕基",
+      "last": "您好！"
+    }, {
+      "tupian": "/pages/example/images/conf64_on.png",
+      "name": "邓小平",
+      "last": "您好！"
+    }]
