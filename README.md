@@ -1,2 +1,6 @@
-# data-infoaas-com
+# https://infoaas.com/data/ 
 存放 infoaas.com/data 的静态数据，近供学习和练习使用。
+
+## 注意
+1. 请同学们自己创建一个学号目录，然后把自己的数据放在学号文件夹中。  
+2. 只允许放 \*.json 和图片等数据，需要放其他数据请说明原因。
