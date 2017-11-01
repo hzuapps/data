@@ -1,0 +1,31 @@
+[{
+      "src":"/pages/comp/form",
+      "tupian":"/pages/example/images/19.png",
+      "name": "三阶魔方基础教程",
+      "last": "点击进入"
+    }, {
+      "src": "/pages/comp/form",
+      "tupian": "/pages/example/images/a.png",
+      "name": "三阶魔方高级公式",
+      "last": "点击进入！"
+    }, {
+      "tupian": "/pages/example/images/b.png",
+      "name": "二阶魔方教程",
+      "last": "点击进入！"
+    }, {
+      "tupian": "/pages/example/images/c.png",
+      "name": "四阶魔方教程",
+      "last": "点击进入！"
+    }, {
+      "tupian": "/pages/example/images/banner.png",
+      "name": "四阶魔方高级公式",
+      "last": "点击进入！"
+    }, {
+      "tupian": "/pages/example/images/conf64.png",
+      "name": "五阶魔方教程",
+      "last": "点击进入！"
+    }, {
+      "tupian": "/pages/example/images/conf64_on.png",
+      "name": "五阶魔方高级公式",
+      "last": "点击进入！"
+    }]
