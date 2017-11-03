@@ -1,0 +1,18 @@
+{
+	"type":1001,
+	"booklist":[{
+		"bookname":	"JavaScript DOM高级程序设计",
+		"bookid":   0000,
+		"author":  	"Jeffrey Sambells,Aaron Gustafson",
+		"image":   	"./images/0000.jpg",
+		"downurl": 	"./books/0000.PDF",
+		"size":		"13"
+	},{
+		"bookname":	"JavaScript DOM编程艺术",
+		"bookid":	0001,
+		"author":	"Jeremy Keith",
+		"image":	"./images/0001.jpg",
+		"downurl":	"./books/0001.PDF",
+		"size":		"23M"
+	}]
+}
