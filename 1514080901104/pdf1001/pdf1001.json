@@ -1,19 +1,18 @@
-{
+锘縶
 	"type":1001,
 	"booklist":[{
-		"bookname":	"JavaScript DOM高级程序设计",
+		"bookname":	"JavaScript DOM楂樼骇绋嬪簭璁捐",
 		"bookid":   0000,
 		"author":  	"Jeffrey Sambells,Aaron Gustafson",
 		"image":   	"https://infoaas.com/data/1514080901104/pdf1001/images/0000.jpg",
 		"downurl": 	"https://infoaas.com/data/1514080901104/pdf1001/books/0000.PDF",
 		"size":		"13M"
 	},{
-		"bookname":	"JavaScript DOM编程艺术",
+		"bookname":	"JavaScript DOM缂栫▼鑹烘湳",
 		"bookid":	0001,
 		"author":	"Jeremy Keith",
 		"image":   	"https://infoaas.com/data/1514080901104/pdf1001/images/0001.jpg",
 		"downurl": 	"https://infoaas.com/data/1514080901104/pdf1001/books/0001.PDF",
 		"size":		"23M"
 	}]
-	
 }
