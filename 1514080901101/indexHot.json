@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "惠州学院学术交流中心",
+        "icon": "/image/zhengxin.png",
+        "msg": "住宿"
+    },
+    {
+        "id": 2,
+        "name": "汤响自助回转火锅百汇",
+        "icon": "/image/tangxiang.png",
+        "msg": "火锅自助"
+    },
+    {
+        "id": 3,
+        "name": "万岁料理回转寿司（港惠店）",
+        "icon": "/image/wangsui.png",
+        "msg": "日本菜"
+    },
+    {
+        "id": 4,
+        "name": "牛排王子咖啡西餐厅（麦地店）",
+        "icon": "/image/niupai.png",
+        "msg": "西餐"
+    },
+    {
+        "id": 5,
+        "name": "创客空间C咖啡（惠州学院）",
+        "icon": "/image/zhengxin.png",
+        "msg": "甜品、休闲"
+    },
+    {
+        "id": 6,
+        "name": "零下5度（山水华府店）",
+        " icon": "/image/tangxiang.png",
+        "msg": "甜点饮品"
+    },
+    {
+        "id": 7,
+        "name": "正新鸡排（惠州店）",
+        "icon": "/image/zhengxin.png",
+        "msg": "小吃快餐"
+    },
+    {
+        "id": 8,
+        " name": "波客派（城上马庄店）",
+        "icon": "/image/tangxiang.png",
+        "msg": "炸鸡汉堡快餐"
+    },
+    {
+        "id": 9,
+        " name": "麦嘉斯（惠大店）",
+        " icon": "/image/tangxiang.png",
+        "msg": "小吃快餐"
+    },
+    {
+        "id": 10,
+        " name": "荷塘风韵大酒店",
+        " icon": "/image/tangxiang.png",
+        "msg": "酒店、会所"
+    },
+    {
+        "id": 11,
+        "name": "武汉鸭脖周鸭客",
+        " icon": "/image/tangxiang.png",
+        "msg": "卤味"
+    }
+]
