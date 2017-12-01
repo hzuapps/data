@@ -1,0 +1,62 @@
+[
+    {
+        "id": 301,
+        "name": "荷塘风韵大酒店",
+        "icon": "/image/tangxiang.png",
+        "msg": "住宿"
+    },
+    {
+        "id": 302,
+        "name": "御庭商务宾馆",
+        "icon": "/image/tangxiang.png",
+        "msg": "住宿"
+    },
+    {
+        "id": 303,
+        "name": "永富源商务酒店",
+        "icon": "/image/tangxiang.png",
+        "msg": "住宿"
+    },
+    {
+        "id": 304,
+        "name": "联丰商务酒店",
+        "icon": "/image/tangxiang.png",
+        "msg": "住宿"
+    },
+    {
+        "id": 305,
+        "name": "三环精品酒店",
+        "icon": "/image/tangxiang.png",
+        "msg": "住宿"
+    },
+    {
+        "id": 306,
+        "name": "维也纳酒店",
+        "icon": "/image/tangxiang.png",
+        "msg": "住宿"
+    },
+    {
+        "id": 307,
+        "name": "爱玺酒店公寓",
+        "icon": "/image/tangxiang.png",
+        "msg": "住宿"
+    },
+    {
+        "id": 308,
+        "name": "逸龙大酒店",
+        "icon": "/image/tangxiang.png",
+        "msg": "住宿"
+    },
+    {
+        "id": 309,
+        "name": "住宿9",
+        "icon": "/image/tangxiang.png",
+        "msg": "住宿"
+    },
+    {
+        "id": 310,
+        "name": "环城宾馆",
+        "icon": "/image/tangxiang.png",
+        "msg": "住宿"
+    }
+]
