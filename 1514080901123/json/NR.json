@@ -1,3 +1,4 @@
+{
 recond: [
       {
         name: "三阶速拧",
@@ -143,3 +144,5 @@ recond: [
         singlematch: "2017WCA中国魔方锦标赛",
         avgmatch: ""
       }
+]
+}
