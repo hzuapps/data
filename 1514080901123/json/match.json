@@ -1,151 +1,235 @@
 {
-match:[
-    {
-      name:"2018WCA金华元旦魔方赛",
-      icon:"/pages/example/images/wca/wca.jpg",
-      date:"2018-01-01",
-      city:"浙江	金华",
-      locate:"婺城区婺州街1029号海纳商务酒店9楼"
-  },
-    {
-      name: "	2017WCA淄博魔方公开赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-12-23",
-      city: "山东	淄博",
-      locate: "张店区新村西路266号山东理工大学西校区音乐学院报告厅"
-    },
-    {
-      name: "	2017WCA镇江魔方公开赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-12-10",
-      city: "江苏	镇江",
-      locate: "京口区解放路17号镇江市图书馆3楼文心讲堂"
-    },
-    {
-      name: "	2017WCA亚洲最少步联赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-12-09",
-      city: "多地",
-      locate: "多地"
-    },
-    {
-      name: "	2017WCA大连冬季魔方赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-12-03",
-      city: "辽宁	大连",
-      locate: "甘井子区高新街1号创业e港7楼"
-    },
-    {
-      name: "	2017WCA深圳魔方公开赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-12-03",
-      city: "广东	深圳",
-      locate: "龙岗区布吉街道布吉三联片区布龙路18号赛格ECO购物广场五楼美斯学谷"
-    },
-    {
-      name: "	2017徐州高校冬季魔方联赛",
-      icon: "",
-      date: "2017-12-02",
-      city: "江苏	徐州",
-      locate: "泉山区金山东路1号中国矿业大学徐海学院嘉园实验楼一层"
-    },
-    {
-      name: "	2017WCA石家庄魔方公开赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-11-26",
-      city: "河北	石家庄",
-      locate: "桥西区友谊北大街19号石家庄市第19中学 报告厅"
-    },
-    {
-      name: "	2017杭州高中志逸魔方赛",
-      icon: "",
-      date: "2017-11-26",
-      city: "浙江	杭州",
-      locate: "西湖区文三路188号杭州学军中学国际交流中心"
-    },
-    {
-      name: "	2017WCA武汉大学三阶魔方日",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-11-25~26",
-      city: "湖北	武汉",
-      locate: "洪山区珞喻路129号武汉大学信息学部学生活动中心"
-    },
-    {
-      name: "	2017WCA焦作魔方公开赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-11-25~26",
-      city: "河南	焦作",
-      locate: "解放区丰收路与民主南路交叉口万达广场中庭"
-    },
-    {
-      name: "	2017WCA漳州嘉庚学院公开赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-11-19",
-      city: "福建	漳州",
-      locate: "龙海市漳州开发区厦门大学嘉庚学院南区食堂三楼"
-    },
-    {
-      name: "	2017WCA杭电魔方赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-11-18~19",
-      city: "浙江	杭州",
-      locate: "江干区白杨街道2号大街1158号杭州电子科技大学综合楼学生活动中心北楼"
-    },
-    {
-      name: "	2017WCA济南魔方公开赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-11-18",
-      city: "山东	济南",
-      locate: "历下区南门大街1号省科技馆报告厅"
-    },
-    {
-      name: "	2017兰州市第六届高校魔方联赛",
-      icon: "",
-      date: "2017-11-18",
-      city: "甘肃	兰州",
-      locate: "安宁区安宁西路88号兰州交通大学大学生活动中心"
-    },
-    {
-      name: "	2017大连市第一届魔方高校联赛",
-      icon: "",
-      date: "2017-11-18",
-      city: "辽宁	大连",
-      locate: "甘井子区软件园8号大连东软信息学院南门A1-306"
-    },
-    {
-      name: "	2017成都魔方十校联赛",
-      icon: "",
-      date: "2017-11-12",
-      city: "四川	成都	",
-      locate: "高新西区百叶路一号电子科技大学成都学院晨曦食堂三楼"
-    },
-    {
-      name: "	2017揭阳学生魔方联赛",
-      icon: "",
-      date: "2017-11-12",
-      city: "广东	揭阳	",
-      locate: "榕东街道揭阳华侨高级中学玉振堂二楼"
-    },
-    {
-      name: "2017WCA南昌魔方公开赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-11-11~12",
-      city: "江西	南昌	",
-      locate: "青山湖区北京西路194号江西师大附中教学楼5楼报告厅"
-    },
-    {
-      name: "2017河南高校秋季魔方联赛",
-      icon: "",
-      date: "2017-11-11~12",
-      city: "河南	郑州	",
-      locate: "金水区金水东路136号华北水利水电大学（龙子湖校区）第一报告厅"
-    },
-    {
-      name: "2017WCA福州秋季魔方赛",
-      icon: "/pages/example/images/wca/wca.jpg",
-      date: "2017-11-05",
-      city: "福建	福州	",
-      locate: "闽侯县上街镇大学城福州大学土木学院一楼多功能厅"
-    }
-  ]
+    "match": [
+        {
+            "name": "2018WCA上海冬季公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2018-01-20~21",
+            "city": "上海-松江",
+            "locate": "龙腾路333号上海工程技术大学(松江校区)图文信息中心第二、第三报告厅"
+        },
+       {
+            "name": "2018阳泉魔方公开赛",
+            "icon": "",
+            "date": "2018-01-14",
+            "city": "山西-阳泉",
+            "locate": "城区桃北东街滨河新天地商业广场三层喜阅书吧"
+        },
+        {
+            "name": "2018WCA金华元旦魔方赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2018-01-01",
+            "city": "浙江-金华",
+            "locate": "婺城区婺州街1029号海纳商务酒店9楼"
+        },
+       {
+            "name": "2018WCA西安新年魔方赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2018-01-01",
+            "city": "陕西-西安",
+            "locate": "雁塔区陕师大绿地浐灞小学行政楼3楼报告厅"
+        },
+       {
+            "name": "2018襄阳新年魔方赛",
+            "icon": "",
+            "date": "2018-01-01",
+            "city": "湖北-襄阳",
+            "locate": "襄城区尹集东街66号襄阳汽车职业技术学院学术报告厅"
+        },
+        {
+            "name": "2017杭州高校联赛",
+            "icon": "",
+            "date": "2017-12-31",
+            "city": "浙江-杭州",
+            "locate": "下城区潮王路18号浙江工业大学阳光厅"
+        },
+        {
+            "name": "2017WCA重庆魔方公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-12-30~31",
+            "city": "重庆-沙坪坝",
+            "locate": "大学城北路97号龙湖U城天街B馆4楼U+学院"
+        },
+        {
+            "name": "2017WCA淄博魔方公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-12-23",
+            "city": "山东-淄博",
+            "locate": "张店区新村西路266号山东理工大学西校区音乐学院报告厅"
+        },
+        {
+            "name": "2017WCA黑龙江高校魔方公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-12-17",
+            "city": "黑龙江-哈尔滨",
+            "locate": "南岗区西大直街92号哈尔滨工业大学活动中心"
+        },
+        {
+            "name": "2017郑州大学公开赛",
+            "icon": "",
+            "date": "2017-12-17",
+            "city": "河南-郑州",
+            "locate": "科学大道100号郑州大学新校区数学与统计学院报告厅"
+        },
+        {
+            "name": "2017SCNU魔方公开赛",
+            "icon": "",
+            "date": "2017-12-17",
+            "city": "广东-广州",
+            "locate": "番禺区大学城华南师范大学教学楼1栋106课室"
+        },
+        {
+            "name": "2017WCA镇江魔方公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-12-10",
+            "city": "江苏-镇江",
+            "locate": "京口区解放路17号镇江市图书馆3楼文心讲堂"
+        },
+        {
+            "name": "2017WCA高阶盲拧魔方赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-12-10",
+            "city": "广东-广州",
+            "locate": "海珠区江南西路杏园大街81号南武中学三楼阶梯课室"
+        },
+        {
+            "name": "2017CCA秦皇岛冬季魔方公开赛",
+            "icon": "",
+            "date": "2017-12-10",
+            "city": "河北-秦皇岛",
+            "locate": "海港区河北大街438号燕山大学东校区第三教学楼二楼213教室"
+        },
+        {
+            "name": "2017WCA亚洲最少步联赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-12-09",
+            "city": "多地",
+            "locate": "多地"
+        },
+        {
+            "name": "2017WCA大连冬季魔方赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-12-03",
+            "city": "辽宁-大连",
+            "locate": "甘井子区高新街1号创业e港7楼"
+        },
+        {
+            "name": "2017WCA深圳魔方公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-12-03",
+            "city": "广东-深圳",
+            "locate": "龙岗区布吉街道布吉三联片区布龙路18号赛格ECO购物广场五楼美斯学谷"
+        },
+        {
+            "name": "2017山西高校联赛",
+            "icon": "",
+            "date": "2017-12-03",
+            "city": "山西-太原",
+            "locate": "万柏林区迎泽西大街79号太原理工大学迎西校区科学楼二层清泽讲坛"
+        },
+        {
+            "name": "2017徐州高校冬季魔方联赛",
+            "icon": "",
+            "date": "2017-12-02",
+            "city": "江苏-徐州",
+            "locate": "泉山区金山东路1号中国矿业大学徐海学院嘉园实验楼一层"
+        },
+        {
+            "name": "2017WCA石家庄魔方公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-11-26",
+            "city": "河北-石家庄",
+            "locate": "桥西区友谊北大街19号石家庄市第19中学 报告厅"
+        },
+        {
+            "name": "2017杭州高中志逸魔方赛",
+            "icon": "",
+            "date": "2017-11-26",
+            "city": "浙江-杭州",
+            "locate": "西湖区文三路188号杭州学军中学国际交流中心"
+        },
+        {
+            "name": "2017WCA武汉大学三阶魔方日",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-11-25~26",
+            "city": "湖北-武汉",
+            "locate": "洪山区珞喻路129号武汉大学信息学部学生活动中心"
+        },
+        {
+            "name": "2017WCA焦作魔方公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-11-25~26",
+            "city": "河南-焦作",
+            "locate": "解放区丰收路与民主南路交叉口万达广场中庭"
+        },
+        {
+            "name": "2017WCA漳州嘉庚学院公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-11-19",
+            "city": "福建-漳州",
+            "locate": "龙海市漳州开发区厦门大学嘉庚学院南区食堂三楼"
+        },
+        {
+            "name": "2017WCA杭电魔方赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-11-18~19",
+            "city": "浙江-杭州",
+            "locate": "江干区白杨街道2号大街1158号杭州电子科技大学综合楼学生活动中心北楼"
+        },
+        {
+            "name": "2017WCA济南魔方公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-11-18",
+            "city": "山东-济南",
+            "locate": "历下区南门大街1号省科技馆报告厅"
+        },
+        {
+            "name": "2017兰州市第六届高校魔方联赛",
+            "icon": "",
+            "date": "2017-11-18",
+            "city": "甘肃-兰州",
+            "locate": "安宁区安宁西路88号兰州交通大学大学生活动中心"
+        },
+        {
+            "name": "2017大连市第一届魔方高校联赛",
+            "icon": "",
+            "date": "2017-11-18",
+            "city": "辽宁-大连",
+            "locate": "甘井子区软件园8号大连东软信息学院南门A1-306"
+        },
+        {
+            "name": "2017成都魔方十校联赛",
+            "icon": "",
+            "date": "2017-11-12",
+            "city": "四川-成都",
+            "locate": "高新西区百叶路一号电子科技大学成都学院晨曦食堂三楼"
+        },
+        {
+            "name": "2017揭阳学生魔方联赛",
+            "icon": "",
+            "date": "2017-11-12",
+            "city": "广东-揭阳",
+            "locate": "榕东街道揭阳华侨高级中学玉振堂二楼"
+        },
+        {
+            "name": "2017WCA南昌魔方公开赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-11-11~12",
+            "city": "江西-南昌",
+            "locate": "青山湖区北京西路194号江西师大附中教学楼5楼报告厅"
+        },
+        {
+            "name": "2017河南高校秋季魔方联赛",
+            "icon": "",
+            "date": "2017-11-11~12",
+            "city": "河南-郑州",
+            "locate": "金水区金水东路136号华北水利水电大学（龙子湖校区）第一报告厅"
+        },
+        {
+            "name": "2017WCA福州秋季魔方赛",
+            "icon": "/pages/example/images/wca/wca.jpg",
+            "date": "2017-11-05",
+            "city": "福建-福州",
+            "locate": "闽侯县上街镇大学城福州大学土木学院一楼多功能厅"
+        }
+    ]
 }
