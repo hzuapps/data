@@ -1,0 +1,32 @@
+
+{
+    "listoumei":[
+		{
+            "title": "RWBY",
+            "icon": "https://github.com/FFFfire666/myPicture/blob/master/list-cartoon/RWBY.jpg?raw=true",
+            "date": "2013年7月",
+            "cast": " Lindsay Jones 、Kara Eberle 、Arryn Zech 、Jessica N..",
+            "desc": "所谓「RWBY」既是红白黑黄的开头大写字母，代表的是红、白、黑、黄系列，白色代表寒冷与孤高的皇家测试，黑色代表野兽从暗影中降临，黄色代表美人燃烧黄金。RWBY是由外国知名同人（非职业）创作团队Monty Oum工作室制作，虽然在动画特效和声光处理方面，Monty Oum 的技术明显地暴露出业余的影子。但他们对分镜和场面的用心度受到一致肯定，甚至能给观众带来超出好莱坞动作片的刺激临场感！RWBY系列日前已制作第一部RWBY-Red，其他续作将于2013年陆续上演。 　　短片《RWBY-Red》故事的基调依然是大家熟悉的小红帽，不过这一次小红帽不再是弱小的少女，而是手持巨大兵器的战斗少女，在空旷无垠的雪地至上，小红帽与狼人们展开了一场血腥的厮杀……",
+			"type":["奇幻", "战斗"],
+			"picture":[]
+        },
+		{
+            "title": "RWBY 第二季",
+            "icon": "https://github.com/FFFfire666/myPicture/blob/master/list-cartoon/RWBY%20%E7%AC%AC%E4%BA%8C%E5%AD%A3.jpg?raw=true",
+            "date": "2014年7月",
+            "cast": " Barbara Dunkelman 、Arryn Zech 、Kara Eberle 、Lindsay Jones..",
+            "desc": "酷炫狂霸拽的四位女主飒爽回归！《RWBY》二期动画将会有新角色登场，在最初的四部前导预告片中出现的反派角色也将再度现身，剧情发展将愈来愈紧凑，而除了校园生活的描写，更多的动作场景也让人值得期待。",
+			"type":["奇幻", "战斗"],
+			"picture":[]
+        },
+		{
+            "title": "RWBY 第三季",
+            "icon": "https://github.com/FFFfire666/myPicture/blob/master/list-cartoon/RWBY%20%E7%AC%AC%E4%B8%89%E5%AD%A3.jpg?raw=true",
+            "date": "2015年10月",
+            "cast": "Lindsay Jones 、Arryn Zech 、Barbara Dunkelman 、Kara Eberle..",
+            "desc": " RWBY第三季动画全集是由美国Rooster Teeth动画工作室RWBY团队制作，是RWBY系列动画第三部作品。本作的背景设定在类现代但是充满着超自然力量的世界。主要人物为四个拥有各自的特殊能力及武器的女孩，她们因各种原因聚在一起组成团队并接受训练，以对抗怪物、恶棍或其他类似的团体。在这系列中，“尘晶”（Dust）被用作魔力来源。 　　所谓「RWBY」既是红白黑黄的开头大写字母，代表的是红、白、黑、黄系列，白色代表寒冷与孤高的皇家测试，黑色代表野兽从暗影中降临，黄色代表美人燃烧黄金。据悉，RWBY第二季将于2014年开播，让我们一起期待吧！",
+			"type":["奇幻", "战斗"],
+			"picture":[]
+        }
+	]
+}
