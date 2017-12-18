@@ -1,0 +1,161 @@
+﻿{
+    "selbooks": [
+        {
+            "typeid": 1000,
+            "typename": "JavaScript",
+            "twobook": [
+                {
+                    "bookname": "JavaScript高级程序设计（第3版）",
+                    "label": [
+                        "前端",
+                        "JavaScript"
+                    ],
+                    "bookid": 1002,
+                    "author": [
+                        "Nicholas C.Zakas"
+                    ],
+                    "interpret": [
+                        "李松峰",
+                        "曹力"
+                    ],
+                    "image_small": "http://localhost/data/1514080901104/images/1002_s.jpg",
+                    "image_big": "http://localhost/data/1514080901104/images/1002_b.jpg",
+                    "downurl": "http://localhost/data/1514080901104/books/1000/1002.pdf",
+					"pandownurl":"https://pan.baidu.com/s/1qYr7DNm",
+					"panpasswd":"rf0h",
+                    "introduction": "本书是JavaScript超级畅销书的新版。ECMAScript 5 和HTML5在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript增添了很多适应未来发展的新特性。本书这一版除增加5 章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax 与Comet服务器端通信，HTML5表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。本书附录展望了未来的API和ECMAScript Harmony规范。本书适合有一定编程经验的Web应用开发人员阅读，也可作为高校及社会实用技术培训相关专业课程的教材。",
+                    "publishing_house": "人民邮电出版社",
+                    "size": "13M"
+                },
+                {
+                    "bookname": "JavaScript设计模式",
+                    "label": [
+                        "web编程与设计",
+                        "JavaScript"
+                    ],
+                    "bookid": 1001,
+                    "author": [
+                        "Ross Harmes",
+                        "Dustin Diaz"
+                    ],
+                    "interpret": [
+                        "谢廷晟"
+                    ],
+                    "image_small": "http://localhost/data/1514080901104/images/1001_s.jpg",
+                    "image_big": "http://localhost/data/1514080901104/images/1001_b.jpg",
+                    "downurl": "http://localhost/data/1514080901104/books/1000/1001.pdf",
+					"pandownurl":"https://pan.baidu.com/s/1miJ0l64",
+					"panpasswd":"0nc1",
+                    "introduction": "本书共有两部分。第一部分给出了实现具体设计模式所需要的面向对象特性的基础知识，主要包括接口、封装和信息隐藏、继承、单体模式等内容。第二部分则专注于各种具体的设计模式及其在JavaScript语言中的应用，主要介绍了工厂模式、桥接模式、组合模式、门面模式等几种常见的模式。为了让每一章中的示例都尽可能地贴近实际应用，书中同时列举了一些JavaScript程序员最常见的任务，然后运用设计模式使其解决方案变得更模块化、更高效并且更易维护，其中较为理论化的例子则用于阐明某些要点。本书适合各层次的Web前端开发人员阅读和参考,也适合有C++//Java//C#背景的服务器端程序员学习。以Ajax 和客户端—服务器端通信为主题；第三部分“部分高级脚本编程资源”，集中介绍了一批第三方脚本编程资源，包括库和API。同时，每部分的最后一章都为案例研究，将学到的内容应用于实践。通过学习全书内容，读者将能构建起属于自己的DOM 实用方法库。本书适合有Web 开发和设计经验的读者阅读和参考。",
+                    "publishing_house": "人民邮电出版社",
+                    "size": "13M"
+                }
+            ]
+        },
+        {
+            "typeid": 2000,
+            "typename": "C++",
+            "twobook": [
+                {
+                    "bookname": "C++权威教程（第6版）",
+                    "label": [
+                        "C++"
+                    ],
+                    "bookid": 2001,
+                    "author": [
+                        "Nell Dale",
+                        "Chip Weems"
+                    ],
+                    "interpret": [
+                        "贾洪峰 "
+                    ],
+                    "image_small": "http://localhost/data/1514080901104/images/2001_s.jpg",
+                    "image_big": "http://localhost/data/1514080901104/images/2001_b.jpg",
+                    "downurl": "http://localhost/data/1514080901104/books/2000/2001.pdf",
+					"pandownurl":"https://pan.baidu.com/s/1kVrHU1T",
+					"panpasswd":"zttl",
+                    "introduction": "本书是全面而权威的C++教程，介绍C++编程知识及问题解决方式与方法。新增了编程练习，面向学生重新组织了书中内容；从教育与传播知识的角度考虑，其中涵盖实际案例研究，并用高度相关的练习强化读者对关键概念的理解，以及对关键技能的掌握；C++语言结构与理论并重。",
+                    "publishing_house": "人民邮电出版社",
+                    "size": "13M"
+                },
+                {
+                    "bookname": "C++程序设计：现代方法",
+                    "label": [
+                        "C++",
+                        "编程"
+                    ],
+                    "bookid": 2002,
+                    "author": [
+                        "F. Alexander Allain"
+                    ],
+                    "interpret": [
+                        "赵守彬",
+                        "陈园军",
+                        "马兴旺"
+                    ],
+                    "image_small": "http://localhost/data/1514080901104/images/2002_s.jpg",
+                    "image_big": "http://localhost/data/1514080901104/images/2002_b.jpg",
+                    "downurl": "http://localhost/data/1514080901104/books/2000/2002.pdf",
+					"pandownurl":"https://pan.baidu.com/s/1pKWAZer",
+					"panpasswd":"h5jq",
+                    "introduction": "本书不是一本百科全书式的C++教程，更不是一本写给有编程经验的人看的C++书。如果你想学C++，但没有太多编程经验，而且十分发愁去看那些厚得要命，大部分内容不知所云，更不知道何年何月才用得上的C++“砖头书”，别着急，就看这本吧！\n本书篇幅适中，写得又简单通俗，涵盖了C++编程的所有重要概念。另外，我们得提一提本书作者Alexander Allain，他是月访问量超百万的著名C\\C++教程站Cprogramming.com的创建者，拥有在哈佛大学讲授C++编程的一线教学经验。本书就是他结合多年教学心得和大量读者反馈，为普通C++初学者登堂入室特意编写的一本全新教程，可以帮助你迅速成长为一名优秀的、受欢迎的C++程序员。\n作者真正了解每一位C++编程学习者的需求，了解初学者起步阶段的困惑和纠结。因此，本书由浅入深、循序渐进、步步为营，讲述了编程过程的每一个环节，揭示了编程之路中可能遇到的各种“坑”。以下内容是本书特有的教学思想和方法的体现,从编程所需的工具开始讲起，耐心教你怎么使用\n清晰解释变量、循环、函数等最基本的编程概念\n手把手示范怎么把头脑中的想法转换成C++代码\nC++的指针不好理解，但本书会给你最清晰明白的解释\n字符串、文件I/O、数字、引用……纷至沓来\nC++中的类，以及类的设计\n面向C++的特有编程模式\n使用C++进行面向对象编程\n数据结构和标准模板库（STL）\n习题和75个课后练习巩固你对重要概念和知识点的理解",
+                    "publishing_house": "人民邮电出版社",
+                    "size": "13M"
+                }
+            ]
+        },
+        {
+            "typeid": 3000,
+            "typename": "C#",
+            "twobook": [
+                {
+                    "bookname": "C#经典实例（第4版）",
+                    "label": [
+                        ".net",
+                        "c#",
+                        "微软"
+                    ],
+                    "bookid": 3001,
+                    "author": [
+                        "Jay Hilyard",
+                        "Stephen Teilhet"
+                    ],
+                    "interpret": [
+                        "徐敬德"
+                    ],
+                    "image_small": "http://localhost/data/1514080901104/images/3001_s.jpg",
+                    "image_big": "http://localhost/data/1514080901104/images/3001_b.jpg",
+                    "downurl": "http://localhost/data/1514080901104/books/3000/3001.pdf",
+					"pandownurl":"https://pan.baidu.com/s/1kVP7Tll",
+					"panpasswd":"e3i1",
+                    "introduction": "本书共分为13章，每一章侧重于特定主题的C#解决方案。具体内容包括：类和泛型，集合、枚举器和迭代器，数据类型，语言集成查询和lambda表达式，调试和异常处理，反射和动态编程，正则表达式，文件系统I/O，网络和Web，XML，安全，线程、同步和并发，工具箱。本书使用大量范例，帮助开发人员快速理解并解决现实中的问题。",
+                    "publishing_house": "中国工信出版社",
+                    "size": "13M"
+                },
+                {
+                    "bookname": "C#敏捷开发实践",
+                    "label": [
+                        "c#",
+                        "软件开发"
+                    ],
+                    "bookid": 3002,
+                    "author": [
+                        "Gary McLean Hall"
+                    ],
+                    "interpret": [
+                        "李松峰",
+                        "曹力"
+                    ],
+                    "image_small": "http://localhost/data/1514080901104/images/3002_s.jpg",
+                    "image_big": "http://localhost/data/1514080901104/images/3002_b.jpg",
+                    "downurl": "http://localhost/data/1514080901104/books/3000/3002.pdf",
+					"pandownurl":"https://pan.baidu.com/s/1kVmslAv",
+					"panpasswd":"3w6w",
+                    "introduction": "本书共分为敏捷基础、编写SOLID代码和自适应实例三大部分，将理论与实践相结合，介绍了当前使用Microsoft .NET Framework进行C#编程的最佳实践，详尽探讨了C#开发人员如何应用Scrum等敏捷方案实现高质量、自适应的代码，并给出大量代码示例，是.NET中高级程序员进阶的实用指南。本书的读者对象为有一定经验的.NET开发人员。",
+                    "publishing_house": "人民邮电出版社",
+                    "size": "13M"
+                }
+            ]
+        }
+    ]
+}
