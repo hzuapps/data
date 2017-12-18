@@ -1,0 +1,36 @@
+{
+  "array":[
+    {
+        "name": "赛事新闻1",
+        "icon": "a.png"
+    },
+    {
+        "name": "官方资讯1",
+        "icon": "b.png"
+    },
+    {
+        "name": "赛事新闻2",
+        "icon": "a.png"
+    },
+    {
+        "name": "官方资讯2",
+        "icon": "b.png"
+    },
+    {
+        "name": "赛事新闻3",
+        "icon": "a.png"
+    },
+    {
+        "name": "官方资讯3",
+        "icon": "b.png"
+    },
+    {
+        "name": "赛事新闻4",
+        "icon": "a.png"
+    },
+    {
+        "name": "官方资讯4",
+        "icon": "b.png"
+    }
+  ]
+}
