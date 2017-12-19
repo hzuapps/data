@@ -1,0 +1,80 @@
+﻿{
+    "typename": "JavaScript",
+    "typeid:": 1000,
+    "startid": 1000,
+    "endid": 1999,
+	"board":"http://localhost/data/1514080901104/images/board_1000.jpg",
+    "booklist": [
+        {
+            "bookname": "JavaScript Dom高级程序设计",
+            "label": [
+                "Web程序设计",
+                "JavaScript"
+            ],
+            "bookid": 1000,
+            "author": [
+                "Jeffrey Sambells",
+                "Aaron Gustafson"
+            ],
+            "interpret": [
+                "李松峰",
+                " 李雅雯"
+            ],
+            "image_small": "http://localhost/data/1514080901104/images/1000_s.jpg",
+            "image_big": "http://localhost/data/1514080901104/images/1000_b.jpg",
+            "downurl": "https://localhost/data/1514080901104/books/1000/1000.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1jIIivsi",
+			"panpasswd":"1fyr",
+            "introduction": "本书注重理论与实践的结合，全面讲述高级的DOM 脚本编程。全书分为3 个部分：第一部分“深入理解DOM 脚本编程”，涉及W3C DOM 规范的各方面，包括非标准的浏览器支持和不支持的内容；第二部分“浏览器外部通信”，以Ajax 和客户端—服务器端通信为主题；第三部分“部分高级脚本编程资源”，集中介绍了一批第三方脚本编程资源，包括库和API。同时，每部分的最后一章都为案例研究，将学到的内容应用于实践。通过学习全书内容，读者将能构建起属于自己的DOM 实用方法库。本书适合有Web 开发和设计经验的读者阅读和参考。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "JavaScript设计模式",
+            "label": [
+                "web编程与设计",
+                "JavaScript"
+            ],
+            "bookid": 1001,
+            "author": [
+                "Ross Harmes",
+                "Dustin Diaz"
+            ],
+            "interpret": [
+                "谢廷晟"
+            ],
+            "image_small": "http://localhost/data/1514080901104/images/1001_s.jpg",
+            "image_big": "http://localhost/data/1514080901104/images/1001_b.jpg",
+            "downurl": "https://localhost/data/1514080901104/books/1000/1001.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1miJ0l64",
+			"panpasswd":"0nc1",
+            "introduction": "本书共有两部分。第一部分给出了实现具体设计模式所需要的面向对象特性的基础知识，主要包括接口、封装和信息隐藏、继承、单体模式等内容。第二部分则专注于各种具体的设计模式及其在JavaScript语言中的应用，主要介绍了工厂模式、桥接模式、组合模式、门面模式等几种常见的模式。为了让每一章中的示例都尽可能地贴近实际应用，书中同时列举了一些JavaScript程序员最常见的任务，然后运用设计模式使其解决方案变得更模块化、更高效并且更易维护，其中较为理论化的例子则用于阐明某些要点。本书适合各层次的Web前端开发人员阅读和参考,也适合有C++/Java/C#背景的服务器端程序员学习。以Ajax 和客户端—服务器端通信为主题；第三部分“部分高级脚本编程资源”，集中介绍了一批第三方脚本编程资源，包括库和API。同时，每部分的最后一章都为案例研究，将学到的内容应用于实践。通过学习全书内容，读者将能构建起属于自己的DOM 实用方法库。本书适合有Web 开发和设计经验的读者阅读和参考。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "JavaScript高级程序设计（第3版）",
+            "label": [
+                "前端",
+                "JavaScript"
+            ],
+            "bookid": 1002,
+            "author": [
+                "Nicholas C.Zakas"
+            ],
+            "interpret": [
+                "李松峰",
+                "曹力"
+            ],
+            "image_small": "http://localhost/data/1514080901104/images/1002_s.jpg",
+            "image_big": "http://localhost/data/1514080901104/images/1002_b.jpg",
+            "downurl": "https://localhost/data/1514080901104/books/1000/1002.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1qYr7DNm",
+			"panpasswd":"rf0h",
+            "introduction": "本书是JavaScript超级畅销书的新版。ECMAScript 5 和HTML5在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript增添了很多适应未来发展的新特性。本书这一版除增加5 章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax 与Comet服务器端通信，HTML5表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。本书附录展望了未来的API和ECMAScript Harmony规范。本书适合有一定编程经验的Web应用开发人员阅读，也可作为高校及社会实用技术培训相关专业课程的教材。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        }
+    ],
+    "bookcount": 3
+}
