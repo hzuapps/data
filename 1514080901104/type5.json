@@ -1,0 +1,76 @@
+﻿{
+    "typename": "C语言",
+    "typeid": 5000,
+    "startid": 5000,
+    "endid": 5999,
+	"board":"https://infoaas.com/data/1514080901104/images/board_5000.jpg",
+    "booklist": [
+        {
+            "bookname": "C语言接口与实现：创建可重用软件的技术",
+            "label": [
+                "C语言",
+                "软件重用"
+            ],
+            "bookid": 5000,
+            "author": [
+                "Eben Hewitt"
+            ],
+            "interpret": [
+                "郭旭"
+            ],
+            "image_small": "https://infoaas.com/data/1514080901104/images/5000_s.jpg",
+            "image_big": "https://infoaas.com/data/1514080901104/images/5000_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/5000/5000.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1bpM0xL9",
+			"panpasswd":"08hb",
+            "introduction": "本书概念清晰、实例详尽，是一本有关设计、实现和有效使用C语言库函数，掌握创建可重用C语言软件模块技术的参考指南。书中提供了大量实例，重在阐述如何用一种与语言无关的方法将接口设计实现独立出来，从而用一种基于接口的设计途径创建可重用的API。本书是所有C语言程序员不可多得的好书，也是所有希望掌握可重用软件模块技术的人员的理想参考书，适合各层次的面向对象软件开发人员、系统分析员阅读。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "深入理解C指针",
+            "label": [
+                "指针",
+                "c语言"
+            ],
+            "bookid": 5001,
+            "author": [
+                "Richard Reese"
+            ],
+            "interpret": [
+                "陈晓亮"
+            ],
+            "image_small": "https://infoaas.com/data/1514080901104/images/5001_s.jpg",
+            "image_big": "https://infoaas.com/data/1514080901104/images/5001_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/5000/5001.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1dEUn5Mp",
+			"panpasswd":"uzro",
+            "introduction": " 指针的基本概念及各种指针类型的声明；学习动态内存分配、释放以及其他内存管理技术；向函数传递数据和从函数返回数据；理解数组和指针的关系；如何通过指针使用字符串；检查缓冲区溢出等指针安全问题；理解不透明指针、有界指针、restrict关键字",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "征服C指针",
+            "label": [
+                 "指针",
+                "c语言"
+            ],
+            "bookid": 5002,
+            "author": [
+                "前橋和弥"
+            ],
+            "interpret": [
+                "吴雅明"
+            ],
+            "image_small": "https://infoaas.com/data/1514080901104/images/5002_s.jpg",
+            "image_big": "https://infoaas.com/data/1514080901104/images/5002_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/5000/5002.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1hskw440",
+			"panpasswd":"b2m6",
+            "introduction": "本书被称为日本最有营养的C参考书。作者是日本著名的’毒舌程序员'，其言辞犀利，观点鲜明，往往能让读者迅速领悟要领。书中结合了作者多年的编程经验和感悟，从C语言指针的概念讲起，通过实验一步一步地为我们解释了指针和数组、内存、数据结构的关系，展现了指针的常见用法，揭示了各种使用技巧。另外，还通过独特的方式教会我们怎样解读C语言那些让人纠结的声明语法，如何绕过C指针的陷阱。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        }
+    ],
+    "bookcount": 3
+}
