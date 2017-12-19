@@ -1,0 +1,80 @@
+﻿{
+    "typename": "C#",
+    "typeid": 3000,
+    "startid": 3000,
+    "endid": 3999,
+	"board":"http://infoaas.com/data/1514080901104/images/board_3000.jpg",
+    "booklist": [
+        {
+            "bookname": "Unity游戏设计与实现：南梦宫一线程序员的开发实例（修订版）",
+            "label": [
+                "C#",
+                "游戏",
+                "unity"
+            ],
+            "bookid": 3000,
+            "author": [
+                "加藤政树"
+            ],
+            "interpret": [
+                "罗水东"
+            ],
+            "image_small": "http://infoaas.com/data/1514080901104/images/3000_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/3000_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/3000/3000.pdf",
+			"pandownurl":"暂无",
+			"panpasswd":"暂无",
+            "introduction": "本书的作者是日本知名游戏公司万代南梦宫的资深开发人员，书中通过10个不同类型的游戏实例，展示了真正的游戏设计和实现过程。本书的重点不在于讲解Unity的各种功能细节，而在于介绍核心玩法的设计和实现思路。每个实例都从一个idea开始，不断丰富，进而自然而然地推出各种概念，引导读者思考必要的数据结构和编程方法。掌握了这些思路，即便换成另外一种引擎，也可以轻松地开发出同类型的游戏。",
+            "publishing_house": "中国工信出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "C#经典实例（第4版）",
+            "label": [
+                ".net",
+                "c#",
+                "微软"
+            ],
+            "bookid": 3001,
+            "author": [
+                "Jay Hilyard",
+                "Stephen Teilhet"
+            ],
+            "interpret": [
+                "徐敬德"
+            ],
+            "image_small": "http://infoaas.com/data/1514080901104/images/3001_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/3001_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/3000/3001.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1kVP7Tll",
+			"panpasswd":"e3i1",
+            "introduction": "本书共分为13章，每一章侧重于特定主题的C#解决方案。具体内容包括：类和泛型，集合、枚举器和迭代器，数据类型，语言集成查询和lambda表达式，调试和异常处理，反射和动态编程，正则表达式，文件系统I/O，网络和Web，XML，安全，线程、同步和并发，工具箱。本书使用大量范例，帮助开发人员快速理解并解决现实中的问题。",
+            "publishing_house": "中国工信出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "C#敏捷开发实践",
+            "label": [
+                "c#",
+                "软件开发"
+            ],
+            "bookid": 3002,
+            "author": [
+                "Gary McLean Hall"
+            ],
+            "interpret": [
+                "李松峰",
+                "曹力"
+            ],
+            "image_small": "http://infoaas.com/data/1514080901104/images/3002_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/3002_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/3000/3002.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1kVmslAv",
+			"panpasswd":"3w6w",
+            "introduction": "本书共分为敏捷基础、编写SOLID代码和自适应实例三大部分，将理论与实践相结合，介绍了当前使用Microsoft .NET Framework进行C#编程的最佳实践，详尽探讨了C#开发人员如何应用Scrum等敏捷方案实现高质量、自适应的代码，并给出大量代码示例，是.NET中高级程序员进阶的实用指南。本书的读者对象为有一定经验的.NET开发人员。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        }
+    ],
+    "bookcount": 3
+}

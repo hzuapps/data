@@ -1,0 +1,79 @@
+﻿{
+    "typename": "C++",
+    "typeid": 2000,
+    "startid": 2000,
+    "endid": 2999,
+	"board":"http://infoaas.com/data/1514080901104/images/board_2000.jpg",
+    "booklist": [
+        {
+            "bookname": "C++程序设计实践与技巧：测试驱动开发",
+            "label": [
+                "C++",
+                "测试驱动开发"
+            ],
+            "bookid": 2000,
+            "author": [
+                "Jeff Langr"
+            ],
+            "interpret": [
+                "余飞",
+                "秦涛"
+            ],
+            "image_small": "http://infoaas.com/data/1514080901104/images/2000_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/2000_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/2000/2000.pdf",
+			"pandownurl":"暂无",
+			"panpasswd":"暂无",
+            "introduction": "本书是一本关于设计原则、编程实践、测试驱动开发的指南，旨在帮助C++ 程序员用测试驱动开发方法构建高性能解决方案。全书共11 章，涵盖测试驱动开发的基本工作方式、潜在好处、怎样利用测试驱动开发解决设计缺陷、测试驱动开发的难点和成本、怎样利用测试驱动开发减少甚至免除调试工作，以及如何长时间维持测试驱动开发。本书适合所有技术层次的C++ 程序员阅读。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "C++权威教程（第6版）",
+            "label": [
+                "C++"
+            ],
+            "bookid": 2001,
+            "author": [
+                "Nell Dale",
+                "Chip Weems"
+            ],
+            "interpret": [
+                "贾洪峰 "
+            ],
+            "image_small": "http://infoaas.com/data/1514080901104/images/2001_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/2001_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/2000/2001.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1kVrHU1T",
+			"panpasswd":"zttl",
+            "introduction": "本书是全面而权威的C++教程，介绍C++编程知识及问题解决方式与方法。新增了编程练习，面向学生重新组织了书中内容；从教育与传播知识的角度考虑，其中涵盖实际案例研究，并用高度相关的练习强化读者对关键概念的理解，以及对关键技能的掌握；C++语言结构与理论并重。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "C++程序设计：现代方法",
+            "label": [
+                "C++",
+                "编程"
+            ],
+            "bookid": 2002,
+            "author": [
+                "F. Alexander Allain"
+            ],
+            "interpret": [
+                "赵守彬",
+                "陈园军",
+                "马兴旺"
+            ],
+            "image_small": "http://infoaas.com/data/1514080901104/images/2002_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/2002_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/2000/2002.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1pKWAZer",
+			"panpasswd":"h5jq",
+            "introduction": "本书不是一本百科全书式的C++教程，更不是一本写给有编程经验的人看的C++书。如果你想学C++，但没有太多编程经验，而且十分发愁去看那些厚得要命，大部分内容不知所云，更不知道何年何月才用得上的C++“砖头书”，别着急，就看这本吧！\n本书篇幅适中，写得又简单通俗，涵盖了C++编程的所有重要概念。另外，我们得提一提本书作者Alexander Allain，他是月访问量超百万的著名C\\C++教程站Cprogramming.com的创建者，拥有在哈佛大学讲授C++编程的一线教学经验。本书就是他结合多年教学心得和大量读者反馈，为普通C++初学者登堂入室特意编写的一本全新教程，可以帮助你迅速成长为一名优秀的、受欢迎的C++程序员。\n作者真正了解每一位C++编程学习者的需求，了解初学者起步阶段的困惑和纠结。因此，本书由浅入深、循序渐进、步步为营，讲述了编程过程的每一个环节，揭示了编程之路中可能遇到的各种“坑”。以下内容是本书特有的教学思想和方法的体现,从编程所需的工具开始讲起，耐心教你怎么使用\n清晰解释变量、循环、函数等最基本的编程概念\n手把手示范怎么把头脑中的想法转换成C++代码\nC++的指针不好理解，但本书会给你最清晰明白的解释\n字符串、文件I/O、数字、引用……纷至沓来\nC++中的类，以及类的设计\n面向C++的特有编程模式\n使用C++进行面向对象编程\n数据结构和标准模板库（STL）\n习题和75个课后练习巩固你对重要概念和知识点的理解",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        }
+    ],
+    "bookcount": 3
+}
