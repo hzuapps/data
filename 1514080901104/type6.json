@@ -1,0 +1,78 @@
+﻿{
+    "typename": "SQL",
+    "typeid": 6000,
+    "startid": 6000,
+    "endid": 6999,
+	"board":"https://infoaas.com/data/1514080901104/images/board_6000.jpg",
+    "booklist": [
+        {
+            "bookname": "SQL必知必会（第3版）",
+            "label": [
+                "数据库",
+                "sql"
+            ],
+            "bookid": 6000,
+            "author": [
+                "Ben Forta"
+            ],
+            "interpret": [
+                "钟鸣",
+				"刘晓霞 "
+            ],
+            "image_small": "https://infoaas.com/data/1514080901104/images/6000_s.jpg",
+            "image_big": "https://infoaas.com/data/1514080901104/images/6000_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/6000/6000.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1i5F2CML",
+			"panpasswd":"6n45",
+            "introduction": "SQL 是目前使用最为广泛的数据库语言之一。本书没有涉及理论，而是从实践出发，由浅入深地讲解了广大读者所必需的SQL 知识，适用于各种主流数据库。实例丰富，便于查阅。本书涉及不同平台上数据的排序、过滤和分组，以及表、视图、联结、子查询、游标、存储过程和触发器等内容，通过本书读者可以系统地学习到SQL 的知识和方法.本书注重实用性，操作性很强，适合于SQL 的初学者学习和广大软件开发及管理人员参考。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "SQL基础教程",
+            "label": [
+                "数据库",
+                "sql"
+            ],
+            "bookid": 6001,
+            "author": [
+                "MICK "
+            ],
+            "interpret": [
+                "孙淼",
+				"罗勇"
+            ],
+            "image_small": "https://infoaas.com/data/1514080901104/images/6001_s.jpg",
+            "image_big": "https://infoaas.com/data/1514080901104/images/6001_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/6000/6001.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1nvaITjN",
+			"panpasswd":"9msl",
+            "introduction": "本书介绍了关系数据库以及用来操作关系数据库的SQL语言的使用方法，提供了大量的示例程序和详实的操作步骤说明，读者可以亲自动手解决具体问题，循序渐进地掌握SQL的基础知识和技巧，切实提高自身的编程能力。在每章结尾备有习题，用来检验读者对该章内容的理解程度。另外本书还将重要知识点总结为“法则”，方便大家随时查阅.本书适合完全没有或者具备较少编程和系统开发经验的初学者，也可以作为大中专院校的教材及企业新人的培训用书。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "SQL编程风格",
+            "label": [
+                "数据库",
+                "sql"
+            ],
+            "bookid": 6002,
+            "author": [
+                "Joe Celko"
+            ],
+            "interpret": [
+                "米全喜"
+            ],
+            "image_small": "https://infoaas.com/data/1514080901104/images/6002_s.jpg",
+            "image_big": "https://infoaas.com/data/1514080901104/images/6002_b.jpg",
+            "downurl": "https://infoaas.com/data/1514080901104/books/6000/6002.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1pLT34FL",
+			"panpasswd":"783a",
+            "introduction": "本书针对数据库的设计与编程提出了一系列规则和建议，内容涵盖命名规范、代码版式、键的设计、数据编码方案、编码风格、视图和存储过程的使用以及SQL 中的思考方式和一些试探法等多方面。这些规则都给出了原理说明和例外情况，并列举了大量示例。通过阅读本书，读者可以加深对SQL 思维方式的理解，改善SQL 编程风格，并编写出可读性强、可移植且易于维护的SQL 代码。此外，书中的规则对于公司内部制定编程规范也具有很好的借鉴作用.本书适合数据库管理人员和开发人员阅读，也可作为高等院校计算机专业师生的参考教材。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        }
+    ],
+    "bookcount": 3
+}

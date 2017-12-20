@@ -3,7 +3,7 @@
     "typeid": 2000,
     "startid": 2000,
     "endid": 2999,
-	"board":"https://infoaas.com/data/1514080901104/images/board_2000.jpg",
+	"board":"http://infoaas.com/data/1514080901104/images/board_2000.jpg",
     "booklist": [
         {
             "bookname": "C++程序设计实践与技巧：测试驱动开发",
@@ -19,8 +19,8 @@
                 "余飞",
                 "秦涛"
             ],
-            "image_small": "https://infoaas.com/data/1514080901104/images/2000_s.jpg",
-            "image_big": "https://infoaas.com/data/1514080901104/images/2000_b.jpg",
+            "image_small": "http://infoaas.com/data/1514080901104/images/2000_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/2000_b.jpg",
             "downurl": "https://infoaas.com/data/1514080901104/books/2000/2000.pdf",
 			"pandownurl":"暂无",
 			"panpasswd":"暂无",
@@ -41,8 +41,8 @@
             "interpret": [
                 "贾洪峰 "
             ],
-            "image_small": "https://infoaas.com/data/1514080901104/images/2001_s.jpg",
-            "image_big": "https://infoaas.com/data/1514080901104/images/2001_b.jpg",
+            "image_small": "http://infoaas.com/data/1514080901104/images/2001_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/2001_b.jpg",
             "downurl": "https://infoaas.com/data/1514080901104/books/2000/2001.pdf",
 			"pandownurl":"https://pan.baidu.com/s/1kVrHU1T",
 			"panpasswd":"zttl",
@@ -65,8 +65,8 @@
                 "陈园军",
                 "马兴旺"
             ],
-            "image_small": "https://infoaas.com/data/1514080901104/images/2002_s.jpg",
-            "image_big": "https://infoaas.com/data/1514080901104/images/2002_b.jpg",
+            "image_small": "http://infoaas.com/data/1514080901104/images/2002_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/2002_b.jpg",
             "downurl": "https://infoaas.com/data/1514080901104/books/2000/2002.pdf",
 			"pandownurl":"https://pan.baidu.com/s/1pKWAZer",
 			"panpasswd":"h5jq",

@@ -1,0 +1,81 @@
+﻿{
+    "typename": "算法",
+    "typeid": 4000,
+    "startid": 4000,
+    "endid": 4999,
+	"board":"http://localhost/data/1514080901104/images/board_4000.jpg",
+    "booklist": [
+        {
+            "bookname": "挑战程序设计竞赛（第2版）",
+            "label": [
+                "程序设计",
+                "算法",
+                "acm"
+            ],
+            "bookid": 4000,
+            "author": [
+                "秋叶拓哉",
+				"岩田阳一",
+				"北川宜稔 "
+            ],
+            "interpret": [
+                "巫泽俊 "
+            ],
+            "image_small": "http://localhost/data/1514080901104/images/4000_s.jpg",
+            "image_big": "http://localhost/data/1514080901104/images/4000_b.jpg",
+            "downurl": "https://localhost/data/1514080901104/books/4000/4000.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1bo5po2F",
+			"panpasswd":"a3ui",
+            "introduction": "本书对程序设计竞赛中的基础算法和经典问题进行了汇总，分为准备篇、初级篇、中级篇与高级篇4章。作者结合自己丰富的参赛经验,对严格筛选的110多道各类试题进行了由浅入深、由易及难的细致讲解，并介绍了许多实用技巧。每章后附有习题，供读者练习，巩固所学。本书适合程序设计人员、程序设计竞赛爱好者以及高校计算机专业师生阅读。",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "算法竞赛入门经典",
+            "label": [
+                "程序设计",
+                "算法",
+                "acm"
+            ],
+            "bookid": 4001,
+            "author": [
+                "刘汝佳"
+            ],
+            "interpret": [
+                ""
+            ],
+            "image_small": "http://localhost/data/1514080901104/images/4001_s.jpg",
+            "image_big": "http://localhost/data/1514080901104/images/4001_b.jpg",
+            "downurl": "https://localhost/data/1514080901104/books/4000/4001.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1nvegHN7",
+			"panpasswd":"53kr",
+            "introduction": "《算法竞赛入门经典》是一本算法竞赛的入门教材，把C，C++语言、算法和解题有机地结合在了一起，淡化理论，注重学习方法和实践技巧。全书内容分为11章，包括程序设计入门、循环结构程序设计、数组和字符串、函数和递归、基础题目选解、数据结构基础、暴力求解法、高效算法设计、动态规划初步、数学概念与方法、图论模型与算法，覆盖了算法竞赛入门所需的主要知识点，并附有大量习题。书中的代码规范、简洁、易懂，不仅能帮助读者理解算法原理，还能教会读者很多实用的编程技巧。另外，书中包含的各种开发、测试和调试技巧也是在传统的语言、算法类书籍中难以见到的。",
+            "publishing_house": "清华大学出版社",
+            "size": "13M"
+        },
+        {
+            "bookname": "算法图解",
+            "label": [
+                "人工智能",
+                "算法",
+                "机器学习"
+            ],
+            "bookid": 4002,
+            "author": [
+                "Aditya Bhargava "
+            ],
+            "interpret": [
+                "袁国忠"
+            ],
+            "image_small": "http://localhost/data/1514080901104/images/4002_s.jpg",
+            "image_big": "http://localhost/data/1514080901104/images/4002_b.jpg",
+            "downurl": "https://localhost/data/1514080901104/books/4000/4002.pdf",
+			"pandownurl":"https://pan.baidu.com/s/1hsvlPIk",
+			"panpasswd":"6n9e",
+            "introduction": "你一定能看懂的算法基础书，代码示例基于Python，400多个示意图，生动介绍算法执行过程，展示不同算法在性能方面的优缺点，教会你用常见算法解决每天面临的实际编程问题",
+            "publishing_house": "人民邮电出版社",
+            "size": "13M"
+        }
+    ],
+    "bookcount": 3
+}

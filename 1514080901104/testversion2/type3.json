@@ -3,7 +3,7 @@
     "typeid": 3000,
     "startid": 3000,
     "endid": 3999,
-	"board":"https://infoaas.com/data/1514080901104/images/board_3000.jpg",
+	"board":"http://infoaas.com/data/1514080901104/images/board_3000.jpg",
     "booklist": [
         {
             "bookname": "Unity游戏设计与实现：南梦宫一线程序员的开发实例（修订版）",
@@ -19,8 +19,8 @@
             "interpret": [
                 "罗水东"
             ],
-            "image_small": "https://infoaas.com/data/1514080901104/images/3000_s.jpg",
-            "image_big": "https://infoaas.com/data/1514080901104/images/3000_b.jpg",
+            "image_small": "http://infoaas.com/data/1514080901104/images/3000_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/3000_b.jpg",
             "downurl": "https://infoaas.com/data/1514080901104/books/3000/3000.pdf",
 			"pandownurl":"暂无",
 			"panpasswd":"暂无",
@@ -43,8 +43,8 @@
             "interpret": [
                 "徐敬德"
             ],
-            "image_small": "https://infoaas.com/data/1514080901104/images/3001_s.jpg",
-            "image_big": "https://infoaas.com/data/1514080901104/images/3001_b.jpg",
+            "image_small": "http://infoaas.com/data/1514080901104/images/3001_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/3001_b.jpg",
             "downurl": "https://infoaas.com/data/1514080901104/books/3000/3001.pdf",
 			"pandownurl":"https://pan.baidu.com/s/1kVP7Tll",
 			"panpasswd":"e3i1",
@@ -66,8 +66,8 @@
                 "李松峰",
                 "曹力"
             ],
-            "image_small": "https://infoaas.com/data/1514080901104/images/3002_s.jpg",
-            "image_big": "https://infoaas.com/data/1514080901104/images/3002_b.jpg",
+            "image_small": "http://infoaas.com/data/1514080901104/images/3002_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/3002_b.jpg",
             "downurl": "https://infoaas.com/data/1514080901104/books/3000/3002.pdf",
 			"pandownurl":"https://pan.baidu.com/s/1kVmslAv",
 			"panpasswd":"3w6w",

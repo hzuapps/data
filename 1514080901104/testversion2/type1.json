@@ -3,7 +3,7 @@
     "typeid:": 1000,
     "startid": 1000,
     "endid": 1999,
-	"board":"https://infoaas.com/data/1514080901104/images/board_1000.jpg",
+	"board":"http://infoaas.com/data/1514080901104/images/board_1000.jpg",
     "booklist": [
         {
             "bookname": "JavaScript Dom高级程序设计",
@@ -20,8 +20,8 @@
                 "李松峰",
                 " 李雅雯"
             ],
-            "image_small": "https://infoaas.com/data/1514080901104/images/1000_s.jpg",
-            "image_big": "https://infoaas.com/data/1514080901104/images/1000_b.jpg",
+            "image_small": "http://infoaas.com/data/1514080901104/images/1000_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/1000_b.jpg",
             "downurl": "https://infoaas.com/data/1514080901104/books/1000/1000.pdf",
 			"pandownurl":"https://pan.baidu.com/s/1jIIivsi",
 			"panpasswd":"1fyr",
@@ -43,8 +43,8 @@
             "interpret": [
                 "谢廷晟"
             ],
-            "image_small": "https://infoaas.com/data/1514080901104/images/1001_s.jpg",
-            "image_big": "https://infoaas.com/data/1514080901104/images/1001_b.jpg",
+            "image_small": "http://infoaas.com/data/1514080901104/images/1001_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/1001_b.jpg",
             "downurl": "https://infoaas.com/data/1514080901104/books/1000/1001.pdf",
 			"pandownurl":"https://pan.baidu.com/s/1miJ0l64",
 			"panpasswd":"0nc1",
@@ -66,8 +66,8 @@
                 "李松峰",
                 "曹力"
             ],
-            "image_small": "https://infoaas.com/data/1514080901104/images/1002_s.jpg",
-            "image_big": "https://infoaas.com/data/1514080901104/images/1002_b.jpg",
+            "image_small": "http://infoaas.com/data/1514080901104/images/1002_s.jpg",
+            "image_big": "http://infoaas.com/data/1514080901104/images/1002_b.jpg",
             "downurl": "https://infoaas.com/data/1514080901104/books/1000/1002.pdf",
 			"pandownurl":"https://pan.baidu.com/s/1qYr7DNm",
 			"panpasswd":"rf0h",
