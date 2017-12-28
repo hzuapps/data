@@ -1,13 +1,13 @@
 <?php
-function curl_https($url = '')
+function curl_https($url='')
 {
 	$ch = curl_init();
 
-    //²âÊÔÓÃurl = 'http://apis.baidu.com/kuaidicom/express_api/express_api?com=yuantong&nu=806820160474&muti=0&order=desc';
+    //$url = 'http://apis.baidu.com/kuaidicom/express_api/express_api?com=yuantong&nu=806820160474&muti=0&order=desc';
 
     $header = array(
 
-        'apikey: bfbb340a9618592ba1f0df778aa12d38',
+        'apikey: ebe7141150264cb4419415b078e67f3b',
 
     );
 
@@ -23,9 +23,11 @@ function curl_https($url = '')
 
     $res = curl_exec($ch);
 
-    //²âÊÔÓÃvar_dump(json_decode($res));
+    //var_dump(json_decode($res));
 	return json_decode($res) ;
 }
+//curl_https('http://apis.baidu.com/kuaidicom/express_api/express_api?com=yuantong&nu=806820160474&muti=0&order=desc');
+
 
 ?>
 
