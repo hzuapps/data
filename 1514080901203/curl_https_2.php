@@ -1,6 +1,9 @@
 <?php
-function curl_https($url='')
+function curl_https($nu = '',$com = "")
 {
+	
+	$url="http://apis.baidu.com/kuaidicom/express_api/express_api?muti=0&order=desc&nu={$nu}&com={$com}";
+	
 	$ch = curl_init();
 
     //$url = 'http://apis.baidu.com/kuaidicom/express_api/express_api?com=yuantong&nu=806820160474&muti=0&order=desc';
@@ -23,9 +26,14 @@ function curl_https($url='')
 
     $res = curl_exec($ch);
 
-    //var_dump(json_decode($res));
+    var_dump(json_decode($res));
 	return json_decode($res) ;
 }
+$nu=$_GET['nu'];
+$com=$_GET['com'];
+curl_https($nu,$com);
+
+//curl_https();
 //curl_https('http://apis.baidu.com/kuaidicom/express_api/express_api?com=yuantong&nu=806820160474&muti=0&order=desc');
 
 
