@@ -25,9 +25,12 @@ function curl_https($nu = '',$com = "")
     curl_setopt($ch , CURLOPT_URL , $url);
 
     $res = curl_exec($ch);
+	
 
-    var_dump(json_decode($res));
-	return json_decode($res) ;
+	$result=json_encode(json_decode($res,true),JSON_UNESCAPED_UNICODE);
+	$result=urldecode($result);
+	var_dump ($result);
+	return $result ;
 }
 $nu=$_GET['nu'];
 $com=$_GET['com'];
